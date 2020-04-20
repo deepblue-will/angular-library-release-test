@@ -3,8 +3,9 @@ import { Component, OnInit } from '@angular/core';
 @Component({
   selector: 'lib-test-lib',
   template: `
+    <h1>V2!!</h1>
     <p>
-      test-lib works!!v2!!
+      test-lib works!!
     </p>
   `,
   styles: []
