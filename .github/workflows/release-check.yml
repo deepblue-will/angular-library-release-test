@@ -1,9 +1,9 @@
-name: Release
+name: Release check
 on:
-  push:
-    branches: [master]
+  pull_request:
+    branches: [master,next,beta]
 jobs:
-  release:
+  check:
     runs-on: ubuntu-latest
     strategy:
       matrix:
@@ -30,8 +30,8 @@ jobs:
         run: npm i
       - name: Build
         run: npm run build:lib
-      - name: Release
+      - name: Release dry-run
         env:
           GITHUB_TOKEN: ${{ secrets.RELEASE_GITHUB_TOKEN }}
           NPM_TOKEN: ${{ secrets.RELEASE_GITHUB_TOKEN }}
-        run: npm run release
+        run: npm run release -- -d true --no-ci
