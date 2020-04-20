@@ -4,5 +4,12 @@
   "peerDependencies": {
     "@angular/common": "^8.2.14",
     "@angular/core": "^8.2.14"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:deepblue-will/angular-library-release-test.git"
+  },
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/"
   }
 }
