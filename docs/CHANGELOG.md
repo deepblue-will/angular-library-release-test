@@ -1,3 +1,16 @@
+# [2.0.0](https://github.com/deepblue-will/angular-library-release-test/compare/v1.1.0...v2.0.0) (2020-04-20)
+
+
+### Features
+
+* **hoge:** aaa ([fb67c59](https://github.com/deepblue-will/angular-library-release-test/commit/fb67c595c92c679d250b68fb86c41cca59eac697))
+
+
+### BREAKING CHANGES
+
+* **hoge:** bbbbbb
+ccccccccccccccccccccccccc
+
 # [1.1.0](https://github.com/deepblue-will/angular-library-release-test/compare/v1.0.1...v1.1.0) (2020-04-20)
 
 
