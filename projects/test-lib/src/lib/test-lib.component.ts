@@ -5,7 +5,7 @@ import { Component, OnInit } from '@angular/core';
   template: `
     <h1>V2!!</h1>
     <p>
-      test-lib works!!
+      test-lib works!!!
     </p>
   `,
   styles: []
