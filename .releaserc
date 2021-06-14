@@ -10,6 +10,15 @@
       "assets": ["docs/CHANGELOG.md"],
     }],
     '@semantic-release/npm',
-    '@semantic-release/github'
+    '@semantic-release/github',
+    [
+      "semantic-release-slack-bot",
+      {
+        "notifyOnSuccess": true,
+        "notifyOnFail": false,
+        "markdownReleaseNotes": true,
+        "slackWebhook": "https://hooks.slack.com/services/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",
+      }
+    ]
   ]
 }
