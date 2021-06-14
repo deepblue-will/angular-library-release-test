@@ -1,3 +1,10 @@
+## [3.2.1](https://github.com/deepblue-will/angular-library-release-test/compare/v3.2.0...v3.2.1) (2021-06-14)
+
+
+### Bug Fixes
+
+* add ([90f0a4c](https://github.com/deepblue-will/angular-library-release-test/commit/90f0a4c0ca84628136a83138b434b7a2fab95795))
+
 # [3.2.0](https://github.com/deepblue-will/angular-library-release-test/compare/v3.1.0...v3.2.0) (2020-09-09)
 
 
