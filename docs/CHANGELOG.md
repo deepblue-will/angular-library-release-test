@@ -3,13 +3,11 @@
 
 ### Features
 
-* next ver ([739f425](https://github.com/deepblue-will/angular-library-release-test/commit/739f425d640ce76d263d1d355fa76dd213ca4761))
 * **hoge:** hogehoge ([f946764](https://github.com/deepblue-will/angular-library-release-test/commit/f946764262721c66bc0c54f9050e538d67b43b58))
 
 
 ### BREAKING CHANGES
 
-* release next ver
 * **hoge:** **title**
 ```
 - aaa
