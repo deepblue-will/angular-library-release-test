@@ -1,3 +1,28 @@
+# [4.0.0](https://github.com/deepblue-will/angular-library-release-test/compare/v3.2.3...v4.0.0) (2021-06-15)
+
+
+### Features
+
+* **hoge:** hogehoge ([f946764](https://github.com/deepblue-will/angular-library-release-test/commit/f946764262721c66bc0c54f9050e538d67b43b58))
+
+
+### BREAKING CHANGES
+
+* **hoge:** **title**
+```
+- aaa
+- bbb
+- ccc
+```
+
+** aaa
+** bbb
+** ccc
+
+  * aaa
+  * bbb
+  * ccc
+
 ## [3.2.3](https://github.com/deepblue-will/angular-library-release-test/compare/v3.2.2...v3.2.3) (2021-06-15)
 
 
