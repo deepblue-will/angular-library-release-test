@@ -16,8 +16,7 @@
       {
         "notifyOnSuccess": true,
         "notifyOnFail": false,
-        "markdownReleaseNotes": true,
-        "slackWebhook": "https://hooks.slack.com/services/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",
+        "markdownReleaseNotes": true
       }
     ]
   ]
