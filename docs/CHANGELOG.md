@@ -1,3 +1,15 @@
+# [5.0.0](https://github.com/deepblue-will/angular-library-release-test/compare/v4.0.0...v5.0.0) (2021-06-15)
+
+
+### Features
+
+* next ver ([739f425](https://github.com/deepblue-will/angular-library-release-test/commit/739f425d640ce76d263d1d355fa76dd213ca4761))
+
+
+### BREAKING CHANGES
+
+* release next ver
+
 # [4.0.0](https://github.com/deepblue-will/angular-library-release-test/compare/v3.2.3...v4.0.0) (2021-06-15)
 
 
